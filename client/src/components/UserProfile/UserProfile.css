@@ -1,0 +1,23 @@
+.rmdb-grid-content {
+  width:80%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 40x;
+    grid-row-gap: 40px;
+    margin-left:40px;
+    margin-bottom: 40px;
+  }
+
+
+ .profileDiv{
+   width:100%;
+
+ } 
+
+  table{
+    margin-left: 30%;
+  }
+
+  .grid-view{
+    width:80%;
+  }
