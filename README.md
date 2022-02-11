@@ -14,9 +14,9 @@ There is like option to show the like count of how many users have favorited a p
 
 
 # How to Run:
-Clone this repo
-In the terminal go to client and server locations.
-Do npm install to load the modules
-Do npm start in both client and server to run this application.
+- Clone this repo
+- In the terminal go to client and server locations.
+- Do npm install to load the modules
+- Do npm start in both client and server to run this application.
 
-Note: This needs connection to MongoDB server. Please update the mongoDB Connection before running it.
+- Note: This needs connection to MongoDB server. Please update the mongoDB Connection before running it.
